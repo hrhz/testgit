@@ -1,2 +1,4 @@
 字体大小 Window-->preferences General-->Appearance-->Color and Fonts-->Basic  Text Fonts  点edit
 设置utf-8编码 window->preference->General-->Workspace 点other
+
+shennnnnnn
